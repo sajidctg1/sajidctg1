@@ -18,7 +18,7 @@ As a skilled Full Stack Web Developer, I specialize in building modern, scalable
 
 [![devops](https://skillicons.dev/icons?i=aws,docker,linux,git,)](https://skillicons.dev)
 
-[![language_and_db](https://skillicons.dev/icons?i=js,ts,python,php,mysql,postgres,mongodb,redis,)](https://skillicons.dev)
+[![language_and_db](https://skillicons.dev/icons?i=js,ts,python,php,mysql,postgres,mongodb,redis,supabase,)](https://skillicons.dev)
 
 [![framework](https://skillicons.dev/icons?i=expressjs,nestjs,django,fastapi,laravel,react,nextjs,tailwind,graphql&perline=10)](https://skillicons.dev)
 
