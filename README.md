@@ -24,6 +24,10 @@ As a skilled Full Stack Web Developer, I specialize in building modern, scalable
 
 [![tools](https://skillicons.dev/icons?i=vim,neovim,vscode)](https://skillicons.dev)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajidctg1&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" alt="languages graph"  />
+
+###
+
 <table>
 <tr>
   <td>
@@ -34,7 +38,3 @@ As a skilled Full Stack Web Developer, I specialize in building modern, scalable
   </td>
 </tr>
 </table>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajidctg1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="180" alt="languages graph"  />
-</div>
-
