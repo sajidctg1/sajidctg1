@@ -18,23 +18,19 @@ As a skilled Full Stack Web Developer, I specialize in building modern, scalable
 
 [![devops](https://skillicons.dev/icons?i=aws,docker,linux,git,)](https://skillicons.dev)
 
-[![language_and_db](https://skillicons.dev/icons?i=js,ts,python,php,mysql,postgres,mongodb,redis,supabase,)](https://skillicons.dev)
+[![language_and_db](https://skillicons.dev/icons?i=js,ts,python,php,mysql,postgres,mongodb,redis,supabase,&perline=5)](https://skillicons.dev)
 
-[![framework](https://skillicons.dev/icons?i=expressjs,nestjs,django,fastapi,laravel,react,nextjs,tailwind,graphql&perline=10)](https://skillicons.dev)
+[![framework](https://skillicons.dev/icons?i=expressjs,nestjs,django,fastapi,laravel,react,nextjs,tailwind,graphql&perline=5)](https://skillicons.dev)
 
 [![tools](https://skillicons.dev/icons?i=vim,neovim,vscode)](https://skillicons.dev)
+
+<h3 align="left">Stats:</h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajidctg1&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" alt="languages graph"  />
 
 ###
 
-<table>
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=sajidctg1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
-  </td>
-  <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidctg1&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
-  </td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=sajidctg1&theme=tokyonight&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidctg1&theme=tokyonight" alt="Github Streak" title="Github Streak"/> 
+
